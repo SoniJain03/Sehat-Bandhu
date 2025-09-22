@@ -8,4 +8,4 @@
 
 3. Text Based(Malyalam/English) problem/medical issue analysis (translation and prediction of disease)
 
-The Machine Learning algorithms used in the above models and their preprocessing etc have been clearly documented in the uploaded pdf (ML Documentation for Sehat Bandhu) 
+The Machine Learning algorithms used in the above models and their preprocessing etc have been clearly documented in the uploaded pdf (ML Documentation Sehat Bandhu) 
